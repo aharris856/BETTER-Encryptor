@@ -56,9 +56,9 @@ as the key without ever printing it out like my previous encryption repository d
 You'll first start with an input string to encrypt str.
 you get the size of the string to encrypt. 
 i then calculate the greatest prime factor of the size and call that factor. 
-I then use these 2 values as the key and set key to 'key = 2*size - factor'
-and to make it somewhat more secure I resize the output to be 'size*factor'
-to do this I have to generate a set of random chars ( [2*factor - size] generated).
+I then use these 2 values as the key and set key to 'key = (2 * size) - factor'
+and to make it somewhat more secure I resize the output to be 'size * factor'
+to do this I have to generate a set of random chars ( (2 * factor - size) generated).
 these chars are randomly generated from a seeded random with seed = key.
 after doing so I append these chars to the end of the original string. After doing so I change the values 
 of this new long string that has the original string + a bunch of stuff randomly added to the end. by using
