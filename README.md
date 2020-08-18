@@ -1,4 +1,10 @@
 # BETTER-Encryptor
+      Encryptor.java = Encryptor class file to call on
+      Decryptor.java = Decryptor class file to call on
+      runEncryptor.java = gui file I made to run the encryption and decryption class files
+      runEncrypt has 2 utilities, Encrypt/decrypt input text OR encrypt/decrypt
+      a given file into a file that will be created uppon encryption/decryption itll be overwritten if you
+      ask it to write to an already made file.
       I'VE ATTACHED TO GIVE YOU TEST FILES TO RUN THE CODE ON
       YOU CAN USE WHATEVER FILES YOU LIKE
       tiny.txt
