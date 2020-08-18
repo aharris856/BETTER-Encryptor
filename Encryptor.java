@@ -24,7 +24,7 @@ public class Encryptor
 		//generate a random array to give the order of the cypher (used in scramble method)
 		int[] order = generateCypher(newSize,key);
 		
-		//change values to random values based off the key
+		//change values to random values based off the key as a seed
 		String enStr = changeValues(unScrambledString,key);
 	
 		//scramble the encrypted string that has appended random letters with the order array
