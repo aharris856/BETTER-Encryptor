@@ -1,4 +1,3 @@
-package encryptor;
 
 //decryptor class
 import java.util.Random;
