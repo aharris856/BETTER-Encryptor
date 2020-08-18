@@ -1,4 +1,10 @@
 # BETTER-Encryptor
+      I'VE ATTACHED TO GIVE YOU TEST FILES TO RUN THE CODE ON
+      YOU CAN USE WHATEVER FILES YOU LIKE
+      tiny.txt
+      small.txt
+      large.txt
+      super.txt
 So I made this encryption algorithm a lot better,
 more complex in my opinion and faster as well.
 before I go into detail on the algorithm lemme just go over basic function calls 
