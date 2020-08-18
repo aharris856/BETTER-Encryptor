@@ -1,4 +1,3 @@
-package encryptor;
 
 import java.util.Random;
 
