@@ -15,7 +15,7 @@
       large.txt
       super.txt
 So I made this encryption algorithm a lot better,
-more complex in my opinion and faster as well.
+more complex in my opinion and faster as well than my pevious one.
 before I go into detail on the algorithm lemme just go over basic function calls 
 on the seperated class files 'Encryptor.java' and 'Decryptor.java'
 you can use the GUI i provided and not have to create a run file but to do so here are a few examples of valid calls:
