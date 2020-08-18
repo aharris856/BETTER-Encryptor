@@ -60,7 +60,7 @@ I then use these 2 values as the key and set key to 'key = (2 * size) - factor'
 and to make it somewhat more secure I resize the output to be 'size * factor'
 to do this I have to generate a set of random chars ( (size * factor - size) generated).
 these chars are randomly generated from a seeded random with seed = key.
-after doing so I append these chars to the end of the original string. After doing so I change the values 
+after doing so I append these chars to the end of the original string. After this I change the values 
 of this new long string that has the original string + a bunch of stuff randomly added to the end. by using
 another key seeded random generator to add onto the ascii value (each char has a different randomly generated 
 number not just one number the entire file). Once we have the almost encrypted file we generate an array of type int[].
