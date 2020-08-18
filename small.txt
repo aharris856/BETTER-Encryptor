@@ -1,0 +1,100 @@
+so i'm 
+just doing
+thisto make
+a file
+that has
+a lot of 
+lines
+so this needs 
+to get to like...
+maybe 150 lines???
+we'll see xD
+aight so
+here we go!
+imma just like
+type a bunch
+of random shit so
+what i found
+to be quite
+intereseting is the
+fact that i dont 
+know 
+what is
+the reason
+behind
+doing anything that 
+doesn't give 
+me
+swag ya know?
+like
+fuck bitches
+get $ is all i know
+no but really
+like
+i may not be that smart
+i may not
+have any brain
+cells but
+i do 
+have dat 
+swag money cuz
+kna' sayin?
+so yea!
+just for the sake of fun 
+here is some code that's 
+going to get
+encrypted: 
+public class you{
+	static Scanner kb = new Scanner(System.in);
+	static String name = "";
+	public static void main(String[]args)
+	{	
+		name = kb.nextLine();
+		kb.close();
+		System.out.println("are you cool? lets see xD isCool("+name+") = "+isCool(name));
+
+	}
+	public static boolean isCool(String in)
+	{
+		if(in.equals(name))return false;
+		return true;
+	}
+}
+HA GOTEEM
+you just got roasted
+anywhooses wow
+we still gotta get like 84 lines 
+i think imma stop at 100 LOL 
+so like
+random typing time
+hi 
+there 
+im 
+sponge 
+bob and 
+i dont 
+appreciate
+being 
+yellow 
+my fellow! 
+ah thats the rub. 
+or 
+is it not the rub? 
+for the rub is
+not really the rub 
+had the rub not 
+been rubbed by 
+a rubbing rubber
+poetry 
+at its finest 
+i'm like objectively better
+than that one fucking
+shaking spear guy or whatever
+like who the hell 
+shakes spears? like
+get a fucking life
+jesus chirst LOL 
+what a loser 
+probably like 
+lives in his parents basement... 
+heheh... :(
