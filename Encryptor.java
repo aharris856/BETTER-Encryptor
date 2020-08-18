@@ -104,14 +104,14 @@ public class Encryptor
 		return finalCypher;
 
 	}
-	//generate random string with size factor and seed key
-	private String generateStr(int factor, int key)
+	//generate random string with size max and seed key
+	private String generateStr(int max, int key)
 	{
 		Random r = new Random(key);
 	
 		String str = "";
 		int generate = -1;
-		for(int i = 0; i < factor; i++)
+		for(int i = 0; i < max; i++)
 		{
 			generate = 32+r.nextInt(96);//generate random num between 32 and 128 to use ascii table
 			char append = (char) generate;
