@@ -10,10 +10,10 @@
       ask it to write to an already made file.
       I'VE ATTACHED TO GIVE YOU TEST FILES TO RUN THE CODE ON
       YOU CAN USE WHATEVER FILES YOU LIKE
-      tiny.txt
-      small.txt
-      large.txt
-      super.txt
+      tiny.txt - 10 lines
+      small.txt - 100 lines
+      large.txt - 172822 lines
+      super.txt - 1728220 lines
 So I made this encryption algorithm a lot better,
 more complex in my opinion and faster as well than my pevious one.
 before I go into detail on the algorithm lemme just go over basic function calls 
