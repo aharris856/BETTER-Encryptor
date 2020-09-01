@@ -6,12 +6,11 @@
       runEncryptor.java = gui file I made to run the encryption and decryption class files
       
       runEncrypt has 2 utilities, Encrypt/decrypt input text OR encrypt/decrypt
-      a given file into a file that will be created uppon encryption/decryption itll overwrite if you
-      ask it to write to an already made file.
+      a given file into a file, which will be created uppon encryption/decryption. Itll overwrite the old file if you
+      ask it to write into an already made file.
       I'VE ATTACHED TO GIVE YOU TEST FILES TO RUN THE CODE ON
       YOU CAN USE WHATEVER FILES YOU LIKE
       tiny.txt - 10 lines
-      small.txt - 100 lines
       large.txt - 172822 lines
       super.txt - 1728220 lines
 So I made this encryption algorithm a lot better,
